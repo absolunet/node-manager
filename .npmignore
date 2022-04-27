@@ -12,7 +12,6 @@ manager.js
 SECURITY.md
 SUPPORT.md
 docs
-src
 test
 !dist/**
 .DS_Store
